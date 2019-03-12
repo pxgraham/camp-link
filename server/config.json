@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/camplink-users",
+    "secret": "campLinkCamplinkCAMPLINK"
+}
